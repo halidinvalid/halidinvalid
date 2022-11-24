@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Arda
+- 👀 I’m interested in Android Development
+- 🌱 I’m currently learning Jetpack Compose
+- 💞️ I’m looking to collaborate on open source project
+- 📫 How to reach me linkedin and mail.
